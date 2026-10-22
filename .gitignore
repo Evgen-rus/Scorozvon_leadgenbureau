@@ -63,6 +63,7 @@ telegram_bot_deploy.tar.gz
 # Database files
 *.db
 *.txt
+!requirements.txt
 *.mp3
 *.ini
 recordings_project_30000191458/
